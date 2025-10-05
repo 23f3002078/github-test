@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: 23f3002078@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
 
       - name: Set up uv
         uses: astral-sh/setup-uv@v5
